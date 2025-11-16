@@ -1,0 +1,2 @@
+# Explora-o-Controlada-da-Vulnerabilidade-MS08-067-Windows-XP-SP3-
+Este repositório documenta um laboratório controlado de cibersegurança executado em ambiente isolado, com foco em análise prática da vulnerabilidade MS08-067 (NetAPI) utilizando o Metasploit Framework. O objetivo é reforçar fundamentos de exploração, pós-exploração e análise de limitações de infraestrutura em cenários corporativos.
