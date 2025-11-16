@@ -1,18 +1,46 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Logs
+*.log
+*.tmp
+*.cache
 
-# Other files and folders
-.settings/
+# Payloads gerados
+*.exe
+*.dll
+*.bin
+*.ps1
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Dumps e capturas
+*.pcap
+*.pcapng
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Diretórios temporários
+tmp/
+temp/
+output/
+loot/
+sessions/
+
+# Arquivos do Metasploit
+*.rc
+
+# VirtualBox / VM
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+
+# WSL Temp
+*.swp
+*.swo
+
+# Python / Misc
+__pycache__/
+*.pyc
+
+# Backup
+*.bak
+*.old
+
+# Sistemas
+.DS_Store
+Thumbs.db
